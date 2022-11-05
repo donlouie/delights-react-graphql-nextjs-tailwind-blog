@@ -11,6 +11,6 @@ export { default as CommentsForm } from './CommentsForm';
 export { default as Loader } from './Loader';
 //
 export { default as Banner } from './Banner';
-export { default as Newsletter } from './Newsletter';
+export { default as Newsletter } from './Newsletterr';
 export { default as Navbar } from './Navbar';
 export { default as Footer } from './Footer';
