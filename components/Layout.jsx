@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from './Header';
-import Newsletter from './Newsletterr';
+import Newsletter from './Newsletter';
 import Navbar from './Navbar';
 import Footer from './Footer';
 
